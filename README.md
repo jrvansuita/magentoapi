@@ -4,7 +4,7 @@ This wrapper lets you talk to Magento via SOAP.
 
 ## Installation
 
-`npm install magento`
+<del>`npm install magento`</del>
 
 ## Usage
 
