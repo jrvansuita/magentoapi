@@ -6,6 +6,8 @@ This wrapper lets you talk to Magento via SOAP.
 
 <del>`npm install magento`</del>
 
+`npm install git+https://git@github.com/jrvansuita/magentoapi.git`
+
 ## Usage
 
 ```js
